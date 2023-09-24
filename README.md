@@ -28,12 +28,12 @@ The Reader App is a web application that allows users to read and manage text an
 1. Clone the repository:
 
    ```bash
-    cd reader-app
+    cd go-reader-app
 
 2. Install Go dependencies::
 
    ```bash
-   git clone https://github.com/your-username/reader-app.git
+   git clone https://github.com/NineKama/go-reader-app
 
 
 3. Install Go dependencies:
